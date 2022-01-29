@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("lab4rpvs")]
+[assembly: AssemblyTitle("lab5rpvs")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("lab4rpvs")]
+[assembly: AssemblyProduct("lab5rpvs")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("347b864b-7679-4aee-88c2-0dd740649aa1")]
+[assembly: Guid("7c722378-7102-4240-9061-4e38d5c00a12")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

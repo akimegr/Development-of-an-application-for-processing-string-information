@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{347B864B-7679-4AEE-88C2-0DD740649AA1}</ProjectGuid>
+    <ProjectGuid>{7C722378-7102-4240-9061-4E38D5C00A12}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>lab4rpvs</RootNamespace>
-    <AssemblyName>lab4rpvs</AssemblyName>
+    <RootNamespace>lab5rpvs</RootNamespace>
+    <AssemblyName>lab5rpvs</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
